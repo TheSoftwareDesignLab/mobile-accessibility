@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
-show_downloads: ["true"]
-logo: /assets/imgs/mutapk.png
-title: MutAPK
+show_downloads: ["false"]
+logo: /assets/imgs/logo.png
+title: A Developer's Guide to Building and Testing Accessible Mobile Apps
 tsdllogo: /assets/imgs/horizontalLightBrackgrounds.png
 
 navigation:
